@@ -49,7 +49,8 @@ Table of Contents:
 
 ###
 
-![](RackMultipart20240103-1-r7081v_html_9f525343e3d55cbe.png)
+ ![image 2VD9G2](https://github.com/Kshitijchaube/SCD-Implementation-using-IICS/assets/55972928/24589741-018e-472c-a4ea-8eed1de7f78d)
+
 
 ###
 
@@ -67,7 +68,8 @@ Together, these tools and techniques will help us handle data efficiently and pr
 ###
 ## SCHEMA OVERVIEW:
 
-![](RackMultipart20240103-1-r7081v_html_6d3f64a99083ded4.png)
+![image K4UZG2](https://github.com/Kshitijchaube/SCD-Implementation-using-IICS/assets/55972928/82be4d84-7332-4053-92a4-1019fa3f112a)
+
 
 ###
 
@@ -312,16 +314,13 @@ primary key (TIME\_ID)
 );
 
 #### IICS Procedures:
+![image IAJWG2](https://github.com/Kshitijchaube/SCD-Implementation-using-IICS/assets/55972928/55a67320-0433-4360-a3c2-8556939b4d67)
 
-![](RackMultipart20240103-1-r7081v_html_2e1fb5fed759d15b.png)
+![image 7MHCH2](https://github.com/Kshitijchaube/SCD-Implementation-using-IICS/assets/55972928/7068c5f6-684d-421e-9d5f-c7c0bd5a7dff)
 
-![](RackMultipart20240103-1-r7081v_html_989627463bc64da6.png)
+![image C3QDH2](https://github.com/Kshitijchaube/SCD-Implementation-using-IICS/assets/55972928/1bb3d461-c66c-4db1-8feb-e0fa7ad105ff)
 
-![](RackMultipart20240103-1-r7081v_html_6f2abfa368f5e08b.png)
-
-###
-
-![](RackMultipart20240103-1-r7081v_html_804bae4d2388171f.png)
+![image XWS8G2](https://github.com/Kshitijchaube/SCD-Implementation-using-IICS/assets/55972928/e738a296-20b9-45d0-867d-60958278f007)
 
 ###
 
@@ -397,9 +396,7 @@ We organized data into fact and dimension tables, creating an initial Power BI d
 
 In a nutshell, this project turned raw data into practical insights for decision-making. It lays the foundation for future data-driven projects, highlighting the importance of organized data in generating valuable knowledge.
 
-![](RackMultipart20240103-1-r7081v_html_7dbcb21c3cd66307.jpg)
+![image QZUYG2](https://github.com/Kshitijchaube/SCD-Implementation-using-IICS/assets/55972928/5271a5f4-3d1a-4622-9e9e-87f7c79acfab)
 
-|
- | 0 |
- |
-| --- | --- | --- |
+
+
